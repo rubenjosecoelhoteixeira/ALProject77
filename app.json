@@ -1,0 +1,19 @@
+{
+  "id": "b8e26d9d-65c8-4e77-aeaf-2a20b27a1989",
+  "name": "77.RunningTasksInBackgroundSessions",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "screenshots": [],
+  "platform": "15.0.0.0",
+  "application": "15.0.0.0",
+  "showMyCode": true,
+  "runtime": "4.0",
+  "target": "OnPrem"
+}
